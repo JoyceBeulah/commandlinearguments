@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 ### Step 1:
 Import sys package
 ### Step 2: 
- Create amn empty dictionary
+ Create an empty dictionary
 ### Step 3: 
 Open the text file in read mode
 ### Step 4:  
